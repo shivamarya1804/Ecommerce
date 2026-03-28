@@ -1,5 +1,5 @@
 # Ecommerce
 This is my first project 
 using the tools - 
-python(jupyter), SQL
+python(jupyter), SQL.
 Author - Shivam
